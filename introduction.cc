@@ -1,8 +1,6 @@
 // Insert "Doc-Box" here
 #include <iostream>
 
-test
-
 using namespace std;
 
 int
